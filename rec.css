@@ -1,0 +1,2 @@
+import os
+os.system('termux-sms-send -n 356 eZ 10 0774593440 1234')
